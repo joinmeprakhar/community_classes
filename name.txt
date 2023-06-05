@@ -13,3 +13,9 @@ git stash clear					#all changes gone
 git remote add origin urlhere			#adding my repo to online origin repo
 git remote -v					#to check that my repo is connected with which link/links
 git push origin branch_name_here			#to upload my repo to origin repo 
+
+git branch featureone				#creating a new brach 
+git checkout featureone				#now head is at freatureone not on master
+git mearge fatureone				#added to master branch now it is a part of master
+
+
