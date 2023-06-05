@@ -10,3 +10,6 @@ git stash      					#saved working directory no commits were made
 git stash pop					#can see changes
 git stash clear					#all changes gone
 
+git remote add origin urlhere			#adding my repo to online origin repo
+git remote -v					#to check that my repo is connected with which link/links
+git push branch_name_here			#to upload my repo to origin repo 
