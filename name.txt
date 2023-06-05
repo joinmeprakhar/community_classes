@@ -1,1 +1,12 @@
-hello i am lne first --1
+what i have leart till now
+
+git inti
+git status
+git add
+git commit -m "you msg here"
+git restore --staged 				#file name here
+git log
+git stash      					#saved working directory no commits were made
+git stash pop					#can see changes
+git stash clear					#all changes gone
+
